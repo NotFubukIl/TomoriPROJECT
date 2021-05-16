@@ -10,7 +10,7 @@ _________                _____.__                            __  .__
 */
 fs.writeFile(path, `
 
-const token = "NjI2MTY1MjQwMDU2MjUwMzY5.YJ5AQA.jQdCGVJXGbgqqP4dmPyPzevOu54"// Mets ton token entre les ""
+const token = ""// Mets ton token entre les ""
 const prefix = "&"// Mets ton prerfx entre les "'
 const image = ""// Mets le lien de ton image entre les "" (.gif, .png, .jpg ...)
 const autoclaimer = "on" // on ou off (on : Activer, off : Désactiver)
