@@ -10,9 +10,9 @@ _________                _____.__                            __  .__
 */
 fs.writeFile(path, `
 
-const token = ""// Mets ton token entre les ""
+const token = "" // Mets ton token entre les ""
 const prefix = ""// Mets ton prefix entre les ""
-const image = "https://i.pinimg.com/originals/d3/26/4d/d3264ddc12decfa0a5c23ecbcaccff7b.gif"// Mets le lien de ton image entre les "" (.gif, .png, .jpg ...)
+const image = ""// Mets le lien de ton image entre les "" (.gif, .png, .jpg ...)
 const autoclaimer = "" // on ou off (on : Activer, off : Désactiver)
 const color = "" // Mets ta couleur exemple : RANDOM/red/blue Ou des couleurs HTML exemple : #00aaaa
 const twitch = "" // Mettez votre lien twitch ici (Facultatif)
