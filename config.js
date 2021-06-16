@@ -17,6 +17,19 @@ const autoclaimer = "" // on ou off (on : Activer, off : Désactiver)
 const color = "" // Mets ta couleur exemple : RANDOM/red/blue Ou des couleurs HTML exemple : #00aaaa
 const twitch = "" // Mettez votre lien twitch ici (Facultatif)
 const rpc = "" // ON OU OFF POUR DESACTIVER LE RPC DE BASE DU PROJECT
+const consolecolor = "" // Mettez la couleurs que vous voulez (plus bas) Si aucune couleur n'est définit, la console sera verte
+const antipubbot = "" // on ou off pour activer ou désactiver les pubs des bots
+
+/*
+
+White,
+green,
+blue,
+rainbow,
+magenta,
+yellow
+
+*/
 
 
 
@@ -84,7 +97,9 @@ module.exports = {
 	autoclaimer,
 	color,
 	twitch,
-	rpc
+	rpc,
+	consolecolor,
+	antipubbot
 }
 `, err => {
 	if (err) console.error(err);

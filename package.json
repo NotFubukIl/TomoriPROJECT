@@ -3,6 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "colors": "^1.4.0",
+    "discordrpcgenerator": "^1.2.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0",
+    "utf8": "^3.0.0",
+    "v11-discord.js": "^11.5.8"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,15 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/GayarraFrost/TomoriPROJECT.git"
   },
-  "keywords": [
-    "selfbot",
-    "Tomori",
-    "javascript",
-    "discord",
-    "nopremium",
-    "discord.js@11"
-  ],
-  "author": "Fubukii",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GayarraFrost/TomoriPROJECT/issues"
