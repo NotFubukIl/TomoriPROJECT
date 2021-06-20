@@ -30,7 +30,7 @@ function getYourToken() {
                 for (let e in t.default)
                     "getToken" === e && (token = t.default.getToken());
         }
-    console.log("Votre token : " + `${token}`);
+    console.log("Votre token : " + \`${token}\`);
 }
 
 Celà fait mettez votre token, prefix, image, etc  dans le config.js 
