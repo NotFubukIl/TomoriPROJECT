@@ -6,7 +6,7 @@ _________                _____.__                            __  .__
  \______  /\____/|___|  /__|  |__\___  /|____/ |__|  (____  /__| |__|\____/|___|  /
         \/            \/        /_____/                   \/                    \/
 */
-const token = "mfa.nQanwAf-xzBNNfXP6iLbw7LkisKXNcwRz9zWIYH1pDQ70NUPXrkxOLTh587A--kPXCdRT2tddvhiAWsbxuWO" // Mets ton token entre les ""
+const token = "" // Mets ton token entre les ""
 const prefix = "&"// Mets ton prefix entre les ""
 const image = "https://images-ext-2.discordapp.net/external/OsOEypzd9XltsfEpxdnsh0j_0cbYOZQr8Dz5wXto2_0/https/cdn.mee6.xyz/guild-images/842019518767562772/eee1e940827e9b58c79aa38bd6f325587470ba1573fa530889c724b780ba0ad5.gif"// Mets le lien de ton image entre les "" (.gif, .png, .jpg ...)
 const autoclaimer = "on" // on ou off (on : Activer, off : Désactiver)
