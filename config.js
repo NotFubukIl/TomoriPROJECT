@@ -71,43 +71,22 @@ const textepetiteimage = "" // Ici tu mets le texte qui apparaitre sur ton RPC q
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 module.exports = {
-	token,
-	prefix,
-	image,
-	autoclaimer,
-	color,
-	twitch,
-	rpc,
-	consolecolor,
-	antipubbot,
-	statut,
-	appid,
-	nomimage,
-	details,
-	titrerpc,
-	state,
-	textegrandeimage,
-	textepetiteimage
-}
+        token,
+        prefix,
+        image,
+        autoclaimer,
+        color,
+        twitch,
+        rpc,
+        consolecolor,
+        antipubbot,
+        statut,
+        appid,
+        nomimage,
+        details,
+        titrerpc,
+        state,
+        textegrandeimage,
+        textepetiteimage
+        }
