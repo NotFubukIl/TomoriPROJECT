@@ -33,60 +33,83 @@ const state = "" // Ici tu mets le 3e texte qui apparaitre sur ton RPC
 const textegrandeimage = "" // Ici tu mets le texte qui apparaitra sur ton RPC quand on mettras la souris sur la grande Image
 const textepetiteimage = "" // Ici tu mets le texte qui apparaitre sur ton RPC quand on mettras la souris sur la petite Image
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-module.exports = {
-        token,
-        prefix,
-        image,
-        autoclaimer,
-        color,
-        twitch,
-        rpc,
-        consolecolor,
-        antipubbot,
-        statut,
-        appid,
-        nomimage,
-        details,
-        titrerpc,
-        state,
-        textegrandeimage,
-        textepetiteimage
-        }
+    /*        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+    */        
+    module.exports = {
+    token,
+    prefix,
+    image,
+    autoclaimer,
+    color,
+    twitch,
+    rpc,
+    consolecolor,
+    antipubbot,
+    statut,
+    appid,
+    nomimage,
+    details,
+    titrerpc,
+    state,
+    textegrandeimage,
+    textepetiteimage
+    }
+            
