@@ -1,11 +1,11 @@
-
-        /*
+/*
         _________                _____.__                            __  .__               
-        _   ___   ____   _____/ ______| ____  __ ______________ _/  |_|__| ____   ____  
-        /      / /  _  /       __|  |/ ___|  |  _  __ __  \   __  |/  _  /     
-             ___(  <_> )   |    |  |  / /_/  >  |  /|  | // __ |  | |  (  <_> )   |           ______  /____/|___|  /__|  |_____  /|____/ |__|  (____  /__| |__|____/|___|  /
-                /            /        /_____/                   /                    /
-        */
+        \_   ___ \  ____   _____/ ____\__| ____  __ ______________ _/  |_|__| ____   ____  
+        /    \  \/ /  _ \ /    \   __\|  |/ ___\|  |  \_  __ \__  \\   __\  |/  _ \ /    \ 
+        \     \___(  <_> )   |  \  |  |  / /_/  >  |  /|  | \// __ \|  | |  (  <_> )   |  \
+         \______  /\____/|___|  /__|  |__\___  /|____/ |__|  (____  /__| |__|\____/|___|  /
+                \/            \/        /_____/                   \/                    \/
+*/
     const token = "" // Mets ton token entre les ""
     const prefix = ""// Mets ton prefix entre les ""
     const image = ""// Mets le lien de ton image entre les "" (.gif, .png, .jpg ...)
@@ -25,90 +25,92 @@
     yellow
     */
     // RPC CUSTOM lien = https://discord.com/developers/applications
-    const appid = "" // Mettez L'ID De Votre Applications Discord Pour Le RPC Custom
-    const nomimage = "" // Mettez Le Nom De Votre Grande Image ICI
-    const titrerpc = "" // Mettez Le Titre De Votre RPC (Joue a ...)
-    const details = "" // Mettez Le 2e texte qui apparaitra sur le RPC
-    const state = "" // Ici tu mets le 3e texte qui apparaitre sur ton RPC
-    const textegrandeimage = "" // Ici tu mets le texte qui apparaitra sur ton RPC quand on mettras la souris sur la grande Image
-    const textepetiteimage = "" // Ici tu mets le texte qui apparaitre sur ton RPC quand on mettras la souris sur la petite Image
-    /*        
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-    */        
-    module.exports = {
-    token,
-    prefix,
-    image,
-    autoclaimer,
-    color,
-    twitch,
-    rpc,
-    consolecolor,
-    antipubbot,
-    statut,
-    appid,
-    nomimage,
-    details,
-    titrerpc,
-    state,
-    textegrandeimage,
-    textepetiteimage
-    }
+const appid = "" // Mettez L'ID De Votre Applications Discord Pour Le RPC Custom
+const nomimage = "" // Mettez Le Nom De Votre Grande Image ICI
+const nompetiteimage = "" // Mettez Ici Le Nom De Votre Petite Image
+const titrerpc = "" // Mettez Le Titre De Votre RPC (Joue a ...)
+const details = "" // Mettez Le 2e texte qui apparaitra sur le RPC
+const state = "" // Ici tu mets le 3e texte qui apparaitre sur ton RPC
+const textegrandeimage = "" // Ici tu mets le texte qui apparaitra sur ton RPC quand on mettras la souris sur la grande Image
+const textepetiteimage = "" // Ici tu mets le texte qui apparaitre sur ton RPC quand on mettras la souris sur la petite Image
+/*        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+*/
+module.exports = {
+        token,
+        prefix,
+        image,
+        autoclaimer,
+        color,
+        twitch,
+        rpc,
+        consolecolor,
+        antipubbot,
+        statut,
+        appid,
+        nomimage,
+        nompetiteimage,
+        details,
+        titrerpc,
+        state,
+        textegrandeimage,
+        textepetiteimage
+}
             
